@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.com">
+    <a href="https://simple-article-listing-6u5zvjd14-alfin-manojs-projects.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/your-username/simple-article-listing">
+    <a href="https://github.com/alfinmanoj/Simple-Article-Listing">
       Solution
     </a>
     <span> | </span>
@@ -76,8 +76,8 @@ This is a simple and responsive article listing page built as part of a devChall
 
 ## Contact
 
-- GitHub: [@your-username](https://github.com/alfinmanoj)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/alfin-k-manoj-272132248/)
+- GitHub: [@alfinmanoj](https://github.com/alfinmanoj)
+- LinkedIn: [Alfin K Manoj](https://www.linkedin.com/in/alfin-k-manoj-272132248/)
 
 ---
 
